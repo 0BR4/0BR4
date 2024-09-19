@@ -4,4 +4,3 @@ Hi there 👋
 - 🌱 I’m continuously learning more about back-end and relevant technologies
 - 📫 How to reach me: https://www.linkedin.com/in/obra/
     or via email: obraprogramiranje@gmail.com
--->
